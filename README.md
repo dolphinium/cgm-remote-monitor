@@ -1,11 +1,11 @@
 Nightscout Web Monitor (a.k.a. cgm-remote-monitor)
 ==================================================
 
-This repository is forked from ![nightscout base repo](https://github.com/nightscout/cgm-remote-monitor)
+This repository is forked from [nightscout base repo](https://github.com/nightscout/cgm-remote-monitor)
 
 I normally use my mobile application(DEXCOM G6) for tracking my blood glucose. I personally hosted my website to Web and Azure CosmosDB(Azure version of Mongodb) using Microsft Azure Plaform to track and save my blood glucose values and other important life event data.
 
-Here you can find my up-to-date(updated in every 5 min.) blood glucose values coming from my CGM device: ![My Website](https://nightscout-web-trial.azurewebsites.net/)
+Here you can find my up-to-date(updated in every 5 min.) blood glucose values coming from my CGM device: [My Website](https://nightscout-web-trial.azurewebsites.net/)
 
 
 
